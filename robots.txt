@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aviacums.github.io/aviacums.aviacums
+Sitemap: https://aviacums.github.io/app/aviacums.aviacums
+Sitemap: https://aviacums.github.io/assets/aviacums.aviacums
+Sitemap: https://aviacums.github.io/css/aviacums.aviacums
+Sitemap: https://aviacums.github.io/includes/aviacums.aviacums
+Sitemap: https://aviacums.github.io/item/aviacums.aviacums
+Sitemap: https://aviacums.github.io/src/aviacums.aviacums
